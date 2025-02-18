@@ -56,7 +56,7 @@ The Interactive Quiz Platform is a web application that allows users to attempt 
 
 ## Deployment
 
-The application is deployed on [Vercel](#). You can access it via this [link](https://akshay-mathad.github.io/my_portfolio/).
+The application is deployed on [Vercel](#). You can access it via this [link](https://quiz-app-akshay-mathad.vercel.app/).
 
 ## Contributing
 
